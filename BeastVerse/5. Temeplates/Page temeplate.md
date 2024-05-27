@@ -1,9 +1,9 @@
 ---
-id: "Titolo del Documento"
-tags: [progetto, importante]
+id: Titolo del Documento
+tags: 
 data: 2024-05-23
-author: "Nome Autore"
-status: "bozza"
+author: Negro Simone
+status: Work In Progress
 ---
 # {{title}}
 
